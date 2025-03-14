@@ -1,3 +1,6 @@
+# Ignore a single file in the repository
+bew-file.txt
+
 # Ignore a directory
 bin/
 
