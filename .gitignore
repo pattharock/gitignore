@@ -1,6 +1,3 @@
-# Ignore a single file
-new-file.txt
-
 # Ignore a directory
 bin/
 
