@@ -4,5 +4,5 @@ new-file.txt
 # Ignore a directory
 bin/
 
-# Ignore all .tmp files
+# Ignore all .tmp files throughout the project
 *.tmp
